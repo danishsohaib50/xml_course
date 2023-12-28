@@ -1,2 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<stpdata>
+    
+    <std type="Bio">
+    <fname>David</fname>
+    <iname>Dave</iname>
+    <y_of_B>1984</y_of_B>
+    </std>
+
+    <std type="Science">
+    <fname>  Jhon </fname>
+    <iname>jones</iname>
+    <y_of_B>1983</y_of_B>
+    </std>
+
+    <std type="Computer">
+    <fname>Jhon</fname>
+    <iname>Smith</iname>
+    <y_of_B>1982</y_of_B>
+    </std>
+
+    <std type="Arts">
+    <fname>Mike</fname>
+    <iname>green</iname>
+    <y_of_B>1981</y_of_B>
+    </std>
+
+    <std type="Enigernerig">
+    <fname>Ann</fname>
+    <iname>Webb</iname>
+    <y_of_B>1980</y_of_B>
+    </std>
+
+</stpdata>
