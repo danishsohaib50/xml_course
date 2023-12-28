@@ -1,1 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Ctrl enter, enter, enter -->
+
+<organization>
+    <e:department xmlns:e="https://www.google.com/employes">
+        <e:fname>David</e:fname>
+        <e:iname>Dave</e:iname>
+        <e:y_of_B>1984</e:y_of_B>
+        <e:age>38</e:age>
+        <e:salary>50000</e:salary>
+    </e:department>
+
+    <s:department xmlns:s="https://www.google.com/staff">
+        <s:fname>Bilal</s:fname>
+        <s:iname>Ahmed</s:iname>
+        <s:y_of_B>1984</s:y_of_B>
+        <s:age>58</s:age>
+        <s:salary>1000000</s:salary>
+    </s:department>
+
+    <w:department xmlns:w="https://www.google.com/work">
+        <w:fname>Ahmed</w:fname>
+        <w:iname>Saif</w:iname>
+        <w:y_of_B>1954</w:y_of_B>
+        <w:age>40</w:age>
+        <w:salary>150000</w:salary>
+    </w:department>
+
+    <h:department  xmlns:h="https://www.google.com/hr">
+        <h:fname>Wick</h:fname>
+        <h:iname>John</h:iname>
+        <h:y_of_B>1974</h:y_of_B>
+        <h:age>69</h:age>
+        <h:salary>110000</h:salary>
+    </h:department>
+
+    </organization>
+    
+    
