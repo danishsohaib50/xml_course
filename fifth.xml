@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="fifth.xsl" type="text/xsl"?>
+<organization>
+    <department>
+        <name>Ali</name>
+        <age>20</age>
+        <salary>25000</salary>
+        <cnic>42101</cnic>
+    </department>
+
+    <department>
+        <name>Ahmed</name>
+        <age>22</age>
+        <salary>30000</salary>
+        <cnic>43101</cnic>
+    </department>
+
+    <department>
+        <name>Pasha</name>
+        <age>24</age>
+        <salary>50000</salary>
+        <cnic>48011</cnic>
+    </department>
+
+    <department>
+        <name>Arsalan</name>
+        <age>30</age>
+        <salary>55000</salary>
+        <cnic>49101</cnic>
+    </department>
+</organization>
