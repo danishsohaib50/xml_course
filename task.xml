@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="task.xsl" type="text/xsl"?>
+<music>
+<collectioin>
+    <title>Empire Buresque</title>
+    <artist>Bob Dylan</artist>
+</collectioin>
+
+<collectioin>
+    <title>Hide your heart</title>
+    <artist>Bobbie Tyler</artist>
+</collectioin>
+
+<collectioin>
+    <title>Greatest Hits</title>
+    <artist>Dolly Parton</artist>
+</collectioin>
+
+<collectioin>
+    <title>Still got the blues</title>
+    <artist>Gray Moore</artist>
+</collectioin>
+
+<collectioin>
+    <title>Eros</title>
+    <artist>Eros Ramazzotti</artist>
+</collectioin>
+
+<collectioin>
+    <title>One night only</title>
+    <artist>Bee Gees</artist>
+</collectioin>
+
+<collectioin>
+    <title>Stlvais mother</title>
+    <artist>Dr. Hook</artist>
+</collectioin>
+
+<collectioin>
+    <title>Maggie may</title>
+    <artist>Rod Stewart</artist>
+</collectioin>
+
+<collectioin>
+    <title>Romanza</title>
+    <artist>Andera Bocelli</artist>
+</collectioin>
+
+<collectioin>
+    <title>When a men love a women</title>
+    <artist>Percy Sledge</artist>
+</collectioin>
+
+</music>
