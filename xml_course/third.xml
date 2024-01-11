@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records xmlns:e="https://www.google.com/employes" xmlns:s="https://www.google.com/staff"  xmlns:w="https://www.google.com/work"  xmlns:h="https://www.google.com/hr">
+    <e:record  >
+        <e:name>Hashim</e:name>
+        <e:age>20</e:age>
+        <e:city>Karachi</e:city>
+    </e:record>
+
+    <s:record>
+        <s:name>Imran</s:name>
+        <s:age>25</s:age>
+        <s:age>Islamabd</s:age>
+    </s:record>
+
+    <w:record>
+        <w:name>Ahmed</w:name>
+        <w:age>20</w:age>
+        <w:age>Lahore</w:age>
+    </w:record>
+
+    <h:record>
+        <h:name>Saif</h:name>
+        <h:age>30</h:age>
+        <h:age>Punjab</h:age>
+    </h:record>
+</records>
